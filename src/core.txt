@@ -36,3 +36,4 @@ Learn you some CUE for a great good!
 # guard against empty input
 # keep defaults in sync with the manifest
 # drop an unused branch
+# guard against empty input
